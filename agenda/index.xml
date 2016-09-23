@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agenda-rsses on Manufacture des Idées et Nouvelles Expérimentations</title>
+    <link>/agenda/index.xml</link>
+    <description>Recent content in Agenda-rsses on Manufacture des Idées et Nouvelles Expérimentations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Sep 2016 17:00:00 +0200</lastBuildDate>
+    <atom:link href="/agenda/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title> Atelier Soudé </title>
+      <link>/agenda/ateliersoude/</link>
+      <pubDate>Fri, 09 Sep 2016 17:00:00 +0200</pubDate>
+      
+      <guid>/agenda/ateliersoude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apéros Projet</title>
+      <link>/agenda/aperoprojet/</link>
+      <pubDate>Fri, 09 Sep 2016 10:00:00 +0200</pubDate>
+      
+      <guid>/agenda/aperoprojet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAISEE Camp </title>
+      <link>/agenda/daiseecamp/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/agenda/daiseecamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sessions Oxygenes</title>
+      <link>/agenda/sessions-oxygenes/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/agenda/sessions-oxygenes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masterclass Recherche Citoyenne </title>
+      <link>/agenda/masterclassxxx/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/agenda/masterclassxxx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

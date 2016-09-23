@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contribute-rsses on Manufacture of Ideas and New Experiments</title>
+    <link>/en/contribute/index.xml</link>
+    <description>Recent content in Contribute-rsses on Manufacture of Ideas and New Experiments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="/en/contribute/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Become project leader in 3 steps</title>
+      <link>/en/contribute/porteurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/contribute/porteurs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Become a member of La MYNE</title>
+      <link>/en/contribute/citoyens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/contribute/citoyens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/en/contribute/organisations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/contribute/organisations/</guid>
+      <description>&lt;p&gt;Whith an expertise on workshops facilitation and the access to an ecosystem of professionnals, la MYNE offer a diverse pool of skils and provide access to aspace for your projects.&lt;/p&gt;
+
+&lt;p&gt;For more information get in touch at team@lamyne.org.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

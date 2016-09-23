@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contribute-rsses on Manufacture des Idées et Nouvelles Expérimentations</title>
+    <link>/contribute/index.xml</link>
+    <description>Recent content in Contribute-rsses on Manufacture des Idées et Nouvelles Expérimentations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="/contribute/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Devenir porteur de projet en 3 étapes</title>
+      <link>/contribute/porteurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contribute/porteurs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devenir membre de la MYNE</title>
+      <link>/contribute/citoyens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contribute/citoyens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/contribute/organisations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contribute/organisations/</guid>
+      <description>&lt;p&gt;Fort de son expertise dans l&amp;rsquo;animation d&amp;rsquo;ateliers de co-création et en s&amp;rsquo;appuyant sur son écosystèmes de professionnels, la MYNE met à disposition ses compétences et locaux pour vos projets.&lt;/p&gt;
+
+&lt;p&gt;Pour plus d&amp;rsquo;information veuillez nous contacter: team@lamyne.org.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

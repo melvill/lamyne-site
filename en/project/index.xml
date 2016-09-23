@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project-rsses on Manufacture of Ideas and New Experiments</title>
+    <link>/en/project/index.xml</link>
+    <description>Recent content in Project-rsses on Manufacture of Ideas and New Experiments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/en/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Power Plante</title>
+      <link>/en/project/powerplante/</link>
+      <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/powerplante/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyber Garden</title>
+      <link>/en/project/cybergarden/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/cybergarden/</guid>
+      <description>
+
+&lt;h1 id=&#34;cyber-garden&#34;&gt;Cyber Garden&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;CyberGarden&lt;/strong&gt; sont des œuvres en cours de recherches. Elles ont comme base l’élaboration de jardins intérieurs reliés à un système numérique permettant l’invention d’un nouveau langage entre la plante et l’humain.
+Développé par David Bartholomeo, artiste plasticien, le projet s’inscrit et enrichi les sessions CreaTEC, un partenariat entre la Paillasse Saône et les Beaux arts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hackuaponie</title>
+      <link>/en/project/hackuaponie/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/hackuaponie/</guid>
+      <description>&lt;p&gt;# Programme de sciences citoyennes d&amp;rsquo;amélioration des systèmes aquaponiques&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;aquaponie est une innovation de production alimentaire symbiotique intéressante à plusieurs points de vue :
+production alimentaire locale de rendement très interessant
+production diversifiée de matière végétale et animale en symbiose
+faible consommation de surface au sol et plus faible poids qu&amp;rsquo;un système utilisant de la terre
+faible consommation d&amp;rsquo;eau et d&amp;rsquo;énergie
+possibilité d&amp;rsquo;autonomiser et d&amp;rsquo;automatiser le système de production&lt;/p&gt;
+
+&lt;p&gt;Les objectifs du programme Hackuaponie à la MYNE sont de:
+- comprendre et s&amp;rsquo;approprier les principes de l&amp;rsquo;aquaponie par le faire et la démonstration (étape découverte et initiation)
+- participer à des recherches citoyenne sur divers paramètres d&amp;rsquo;amélioration
+design
+- substrats
+- alimentation des poissons
+- nutriments pour les plantes
+- autonomie énergétique&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Myn-A-Lab</title>
+      <link>/en/project/mynalab/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/mynalab/</guid>
+      <description>&lt;p&gt;Vers une maison autonome, expérimentale &amp;amp; interconnectée&lt;/p&gt;
+
+&lt;p&gt;Alors que plusieurs prototypes d’innovations favorisés à la Paillasse Saône posent les questions d’autonomie énergétique, la maison devient en 2016 l’objet de recherche même se son propre laboratoire.
+Une expérimentation grandeur nature de la réhabilitation d’une maison ancienne avec des briques technologiques « autonomisantes » et expérimentales (énergies, agriculture, eau…), et connectée permettant de tirer partie des ressources du territoires en travaillant avec l’ensemble de ses acteurs et d’être en lien avec d’autres projets et l’expérimentation d’une économie de confiance.
+Chaque mois est dédiée à l’autonomisation d’une pièce de la maison pour intégrer les systèmes suivants :
+Refonte du système de production électrique (prises, compteurs intelligents et expérimentaux)
+Expérimentation de matériels à faible impact énergétique (stockage alimentaire, éclairage biologique, micro méthanisation, panneaux photovoltaïques etc.)
+Suivi de consommation avec interaction visuelle
+Mise en place de systèmes expérimentaux de production agricole (aquaponie, permaculture)
+Mise en place de système d’optimisation de gestion des déchets en réseau distribué
+Développement d’un système d’autogestion par conciergerie numérique et physique
+Mise en place d’une infrastructure de confiance (blockchain)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DAISEE</title>
+      <link>/en/project/daisee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/project/daisee/</guid>
+      <description>
+
+&lt;h1 id=&#34;isoe-the-internets-of-energy&#34;&gt;IsOE - The Internets of Energy&lt;/h1&gt;
+
+&lt;p&gt;The long terme purpose of The DAISEE project is building the &amp;ldquo;internets of energy&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;What does it mean ? The development of open-source secured decentralized autonomous energy production system and consumption monitoring, in line with building micro-grid infrastructures, thus enabling trusted peer-to-peer energy transaction.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Energy Monitoring&lt;/strong&gt;: how to securely monitor energy consumption and production from a open-source basis ? =&amp;gt; #OpenEnergyMonitor #CitizenWatt #OpenHardware #Slockit&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Energoïd&lt;/strong&gt;: on the monitoring basis, how to make rooms / objects take consensual decisions while dealing energy-tokken between them about who’s consuming what/when/ how they contribute to energy consumption reduction ? #Ethereum #smartcontract&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Trusted P2P energy transactions&lt;/strong&gt;: how to make it possible to make peer-to-peer energy transaction at the district level, at the town level, at the territory level… ? #microgrid #peertopeer #ethereum #smartcontract #DApps #regulation #infrastructure&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
