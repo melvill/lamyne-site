@@ -312,6 +312,10 @@ ul.menu_horizontal i {
   max-width: 260px
 }
 
+#page-about .card {
+  min-width: 100%
+}
+
 @media only screen and (max-width : 600px) {
   .card { margin-left: 5em; }
 
